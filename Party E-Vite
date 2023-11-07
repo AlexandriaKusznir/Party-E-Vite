@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Party E-Vite</title>
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sometype+Mono:wght@500&display=swap" rel="stylesheet">
+    
+        <div>
+        <style>
+            
+            body{
+                background-color: rgb(0, 0, 0);
+            }
+            
+            #border{
+                border-width: 5px;
+                border-style: dotted;
+                border-color: rgb(255,215,0);
+                margin:auto;
+                width: 50%
+            }
+            
+             .Wedding{
+                font-family: 'Satisfy', cursive;
+                text-align: center;
+                font-size: 25px;
+                 color:rgb(189,189,189);
+                 margin-top: 20px;
+                 margin-left: 50px;
+                 margin-right: 50px;
+                 margin-bottom: 50px;
+                 padding: 10px
+            }
+            
+             .Couple{
+                text-align: center;
+                font-family:'Sometype Mono', monospace;
+                font-size: 30px ; 
+                 color: rgb(189,189,189);
+                 margin: auto;
+                 width: 30%;
+                border-width: 3px;
+                 border-style: groove;
+                 border-color: rgb(255,215,0)
+            }
+            
+            #RSVP{
+                text-align: center;
+                font-family:'Sometype Mono', monospace;
+                color: rgb(186, 186, 186);
+                font-size: 22px ; 
+                margin: auto;
+                 width: 25%;
+                border-width: 3px;
+                 border-style: groove;
+                 border-color: rgb(255,215,0)
+            }
+            
+            #and{
+                text-align: center;
+                width: 15%;
+                margin:auto;
+            }
+            
+            #leaf{
+                text-align: center;
+                margin: auto;
+            }
+            
+            </style>
+        </div>
+        
+    </head>
+    <body>
+        
+        <div id="border">
+       <p class="Wedding"><br><br>You are cordially <br>invited to the wedding of</p>
+        
+        <p class="Couple">Mani Levans</p>
+        
+        <div id="and"> 
+            <img src="&.png" alt="and" width="100">
+        </div>
+        
+        <p class="Couple">Cyrus Brams</p>
+        
+        <p class="Wedding">On Sunday, 10th March 2024 <br> at Collingswood Grand Ballroom, NJ</p>
+        
+        <p class="Wedding">The cermony will began at 4:30pm</p>
+        
+        <div id="leaf"> 
+            <img src="leaf.png" width="300">
+        </div>
+        
+        <p class="Wedding">Afterwards there will be a buffet along with a reciption. The evening will be followed with dancing and desserts! <br> If you have any questions, please call 215-563-0689.</p>
+        
+        <p id="RSVP";>Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9hjJE4XwtZ22UR6ZA4i4F4GEo4V4uczjc4oazlVlySklV1g/viewform?vc=0&c=0&w=1&flr=0" target="_blank"> RSVP!<br></a></p>
+            
+        </div>
+        
+       
+    </body>
+</html>
